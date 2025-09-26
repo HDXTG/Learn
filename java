@@ -10,3 +10,11 @@ java的特点
 垃圾自动收集：自动回收不再受用的内存对象，无需手动管理内存
 
 JVM运行机制及运行过程
+   不同操作系统需要的JVM不同
+   JVM包含在JDK中
+   JVM实现“一次编译、到处运行”
+
+  test.java ——(编译javac)—— test.class ——(运行)—— JVM FOR ......
+
+JDK = JRE(运行环境) + Java开发工具
+JRE = JVM　
