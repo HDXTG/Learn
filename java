@@ -17,7 +17,7 @@ JVM运行机制及运行过程
   test.java ——(编译javac)—— test.class ——(运行)—— JVM FOR ......
 
 JDK = JRE(运行环境) + Java开发工具
-JRE = JVM　+ 核心类库
+JRE = JVM　+  核心类库
 
     思考：Java核心类库有哪些
     
