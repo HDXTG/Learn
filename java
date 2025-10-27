@@ -53,6 +53,7 @@ Java算法与数据结构
     md(make directory) cmd1    //创建名为cmd1的文件
     cd cmd1                    //进入指定目录(cmd1)；
     cd..                       //回到上层目录
-    cd cmd/class1/team1        //进入team1；
-    
+    cd cmd/class1/team1        //(一步到位)进入team1；
+    rd(remove)                 //移除
+    del/del *.txt              //移除txt文件
     
