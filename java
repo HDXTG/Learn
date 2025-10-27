@@ -57,3 +57,5 @@ Java算法与数据结构
     rd(remove)                 //移除
     del/del *.txt              //移除txt文件
     
+如果编码错误，从UTF-8改为ANSI
+ANSI就是GBK；
