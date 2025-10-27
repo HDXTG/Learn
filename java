@@ -47,6 +47,12 @@ Java算法与数据结构
 
 常见的DOS命令：
     DOS：磁盘操作系统；
-    进入
+    进入CMD；
+    D：                        //进入D盘
+    dir:                       //目录
+    md(make directory) cmd1    //创建名为cmd1的文件
+    cd cmd1                    //进入指定目录(cmd1)；
+    cd..                       //回到上层目录
+    cd cmd/class1/team1        //进入team1；
     
     
