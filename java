@@ -67,9 +67,10 @@ public class helloworld{
     System.out.println("helloworld!");
     }
 }
-
-
-
+class:关键字，表示“类”，后面＋类名;
+main()的方法是固定的
+String[]表示数组
+args是一个名字        //可以动，也可改为String a[];
 
 
 
