@@ -59,3 +59,21 @@ Java算法与数据结构
     
 如果编码错误，从UTF-8改为ANSI
 ANSI就是GBK；
+
+java框架
+
+public class helloworld{
+  public static void main(String[] args){
+    System.out.println("helloworld!");
+    }
+}
+
+
+
+
+
+
+
+
+
+    
