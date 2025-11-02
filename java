@@ -101,8 +101,11 @@ println与print的区别：println输出后会换行；          //先输出后�
 有的同学会配置class path变量，要删掉
 否则编译的时候不会在原路径找，系统会去path路径找    //尽量comment
 
+javadoc -d mydir -author -version HelloWorld.java
+        //以网页格式解析文档，生成有关类的介绍信息
 
-
+API(应用程序编程接口)：java提供的基本接口
+Java API文档：JDK使用说明书
 
 
 
