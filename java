@@ -1,5 +1,5 @@
 /**
-  @author 202424502061 付强
+  @author HDXTG
   @version 1.0
   jdk 21.0.7
 */
@@ -107,10 +107,12 @@ javadoc -d mydir -author -version HelloWorld.java
 API(应用程序编程接口)：java提供的基本接口
 Java API文档：JDK使用说明书
 
-
-
-
-
+  JVM
+java.exe--解释运行(源文件编译后生成的字节码文件)
+JVM--在解释运行后帮助程序内存进行分配和执行
+JVM功能：自动内存管理(内存分配、内存回收)      //GC自动回收：提高空间利用率，减少因没有释放空间而导致的内存泄漏
+Java中的内存泄漏：非法不合理访问              //内存泄漏过多会导致内存泄漏
+  
 
 
   
